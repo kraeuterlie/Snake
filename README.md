@@ -1,3 +1,3 @@
 # Snake
-Emmy ist cool
+Emmy ist cool 
 aber David ist auch cool
