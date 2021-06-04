@@ -47,7 +47,7 @@ Darstellung des Spieles druch javax.swing
 		- reagiert auf Kolisionsereignise mit Schlange<->Spielfeldrand, Schlange<->Apfel oder 	Schlange<->Schlange
     ###############################################################################################################################
 
-    # später
+# später
 	MapLoader 
 		- Liest aus einer Textdatei z.B. # oder P um die Spielfeld aufzubauen
 		- soll das MapDesigning einfacher machen
